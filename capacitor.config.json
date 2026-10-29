@@ -1,0 +1,8 @@
+{
+  "appId": "au.com.yourbrand.littlesteps",
+  "appName": "LittleSteps",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
